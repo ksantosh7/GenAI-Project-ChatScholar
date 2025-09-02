@@ -42,3 +42,15 @@ Once the processing is done, Chat Scholar uses OpenAI Large Language Model (LLM)
 ## Product Demo:
 
 ![image](https://github.com/user-attachments/assets/00381e40-4305-4cf5-afad-3a6881d6b262)
+
+![image](https://github.com/user-attachments/assets/05f9aa99-447e-444e-9e9e-45455eafda61)
+
+## Product Report:
+Chat Scholar represents a significant step towards leveraging AI to create a more engaging and effective learning experience for students, empowering them to excel in their academic pursuits.
+
+
+
+
+
+
+
