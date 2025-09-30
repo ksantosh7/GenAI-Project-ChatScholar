@@ -51,6 +51,3 @@ Chat Scholar represents a significant step towards leveraging AI to create a mor
 
 
 
-
-
-
